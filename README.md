@@ -63,12 +63,10 @@ cyber-scripting-lab/
 
 Author
 Jason Valledor
-
 IT professional transitioning into cybersecurity
-
 Focused on vulnerability management, patch management, and security automation
 
-Notes
-This is a learning and portfolio repository. Scripts are written for educational and demonstration purposes in lab environments.
+## Notes
+-This is a learning and portfolio repository. Scripts are written for educational and demonstration purposes in lab environments.
 
 
